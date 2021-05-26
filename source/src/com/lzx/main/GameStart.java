@@ -5,7 +5,7 @@ import com.lzx.frame.StartFrame;
 public class GameStart {
     public static void main(String[] args) {
 
-        //Õû¸öÓÎÏ·µÄÈë¿Ú Æô¶¯
+        //æ•´ä¸ªç¨‹åºçš„å…¥å£ å¯åŠ¨
         StartFrame startFrame = new StartFrame();
         startFrame.setVisible(true);
     }

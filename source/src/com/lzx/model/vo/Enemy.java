@@ -7,7 +7,7 @@ import java.awt.*;
 
 public class Enemy extends SuperElement {
 	private ImageIcon imageIcon;
-	private String name;//敌机种类
+	private String name;
 	public Enemy() {
 		super();
 

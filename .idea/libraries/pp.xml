@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
