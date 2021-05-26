@@ -15,7 +15,7 @@
 <div  align="center">    
  <img src="https://cdn.jsdelivr.net/gh/lzxqaq/CrazyArcade@master/images/CrazyArcade.png" width = "500" height = "200" alt="图片1" align=center />
  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/lzxqaq/CrazyArcade@master/images/2.png" width = "500" height = "200" alt="图片2" align=center />
+  <img src="https://cdn.jsdelivr.net/gh/lzxqaq/CrazyArcade/images/2.png" width = "500" height = "200" alt="图片2" align=center />
  </div>
 
 ### 功能
