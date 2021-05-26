@@ -13,7 +13,10 @@
 
 运行截图：
 <div  align="center">    
- <img src="https://cdn.jsdelivr.net/gh/lzxqaq/CrazyArcade@master/images/CrazyArcade.png" width = "500" height = "200" alt="图片名称" align=center /></div>
+ <img src="https://cdn.jsdelivr.net/gh/lzxqaq/CrazyArcade@master/images/CrazyArcade.png" width = "500" height = "200" alt="图片名称" align=center />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/lzxqaq/CrazyArcade@master/images/CrazyArcade2.png" width = "500" height = "200" alt="图片名称" align=center />
+ </div>
 
 ### 功能
 本项目实现的功能如下：
