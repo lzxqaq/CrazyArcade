@@ -5,7 +5,7 @@
 
 文章介绍：[https://lzxqaq.com/post/java/paopaotang/](https://lzxqaq.com/post/java/paopaotang/)
 
-程序运行： 在终端下进入执行程序所在目录，执行 `java -jar CrazyArcade.jar`，或者在开发环境中打开源代码，运行 `GameStart.java`的 `main` 方法。
+程序运行： 在终端下进入执行程序所在目录，执行 `java -jar CrazyArcade.jar` 或双击 `CrazyArcade.jar`，或者在开发环境中打开源代码，运行 `GameStart.java`的 `main` 方法。CrazyArcade.jar
 
 运行环境：Linux、Windows均可。开发环境：IDEA。
 
